@@ -1,2 +1,5 @@
 # smckinney1.github.io
-Personal Portfolio
+
+##About
+
+This page holds a number of my completed projects.

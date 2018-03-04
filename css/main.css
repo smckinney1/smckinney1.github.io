@@ -1,0 +1,76 @@
+body {
+	background: url('../img/watercolor.jpg') no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	color: #000;
+	font-family: 'Lato', 'Open Sans', Helvetica, Arial, sans-serif;
+	margin: 0px;
+}
+
+header {
+	padding-top: 8px;
+	height: 100px;
+	border-bottom: 5px solid #aac7b4;
+}
+
+main {
+	margin-top: 115px;
+    border-top: 5px solid #aac7b4;
+    background: #eee;
+}
+
+p {
+	font-size: 18px;
+}
+
+.container {
+	margin-bottom: 100px;
+    margin-top: 25px;
+	border-radius: 9px;
+	background: #f3f7f7;
+    box-shadow: 2px 2px 12px hsla(105, 41%, 32%, 0.72);
+    padding-top: 39px;
+}
+
+.main-img {
+	display: block;
+    margin: auto;
+    position: relative;
+    border-radius: 100%;
+    border: 5px solid #aac7b4;
+    top: -108px;
+}
+
+.jumbotron {
+	margin-top: -100px;
+	text-align: center;
+	padding-top: 18px;
+	padding-bottom: 18px;
+}
+
+.jumbotron h1 {
+	margin-top: 3px;
+    margin-bottom: 38px;
+}
+
+.section-heading {
+	border-bottom: 2px solid #ddd;
+	text-align: center;
+}
+
+.card-img-top {
+	width: inherit;
+}
+
+.card-title {
+	font-weight: bold;
+}
+
+ul {
+	padding-bottom: 40px;
+}
+
+li {
+	list-style-type: circle;
+	font-size: 18px;
+}
