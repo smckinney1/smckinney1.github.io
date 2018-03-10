@@ -37,7 +37,8 @@ p {
     margin: auto;
     position: relative;
     border-radius: 100%;
-    border: 5px solid #aac7b4;
+	border: 5px solid #aac7b4;
+	width: 210px;
     top: -108px;
 }
 
